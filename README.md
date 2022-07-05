@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about **Computer Vision**
 - 👯 I’m looking to collaborate on **Python projects**
 - 🤝 I’m looking for help with **Machine Learning**
-- 📫 How to reach me **vanshika.thapliyal2002gmail.com**
+- 📫 How to reach me **vanshika.thapliyal2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
